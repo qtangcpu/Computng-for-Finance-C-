@@ -1,0 +1,3 @@
+/Users/tangqianle/Desktop/Computing for Finance/HW2/cmake-build-debug/CMakeFiles/HW2.dir
+/Users/tangqianle/Desktop/Computing for Finance/HW2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tangqianle/Desktop/Computing for Finance/HW2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
